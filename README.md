@@ -28,3 +28,6 @@ streamlit run app.py
 
 Upload a PDF: Use the provided interface to upload a PDF file for processing.
 Ask Questions: Once the PDF is processed, you can ask questions about its content.
+
+## Output
+![sample](images/output.png)
